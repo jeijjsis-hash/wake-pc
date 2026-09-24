@@ -1,7 +1,8 @@
 {
   "name": "MWake",
   "short_name": "MWake",
-  "start_url": "./",
+  "start_url": "/wake-pc/",
+  "scope": "/wake-pc/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
@@ -9,12 +10,14 @@
     {
       "src": "https://via.placeholder.com/192",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://via.placeholder.com/512",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
