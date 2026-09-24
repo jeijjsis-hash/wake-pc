@@ -9,25 +9,25 @@
   "description": "MWake Web Application",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/jeijjsis-hash/wake-pc/main/icon.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://raw.githubusercontent.com/jeijjsis-hash/wake-pc/main/icon.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://raw.githubusercontent.com/jeijjsis-hash/wake-pc/main/icon.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://raw.githubusercontent.com/jeijjsis-hash/wake-pc/main/icon.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/5968/5968260.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
