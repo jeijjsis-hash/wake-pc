@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "M-Wake",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "MWake",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
